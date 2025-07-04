@@ -1,9 +1,10 @@
 <h1 align="center">👋 Merhaba, ben Gülay Yüceer</h1>
 
 <p align="center">
-3. sınıf Bilgisayar Mühendisliği öğrencisi, web teknolojileri, yapay zeka ve yazılım mimarisi odaklı bir yazılım geliştiricisiyim. 🚀<br>
-Savunma sanayi, siber güvenlik, yapay zeka ve büyük veri analitiği gibi kritik alanlarda uzmanlaşmayı hedefliyorum.
+Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Web teknolojileri üzerine projeler geliştiriyor, kariyerimi savunma sanayine yönelik yazılım geliştirme alanında ilerletmeyi hedefliyorum. 🚀
 </p>
+
+---
 
 ## 🛠️ Teknoloji Stack'im
 
@@ -47,7 +48,7 @@ Savunma sanayi, siber güvenlik, yapay zeka ve büyük veri analitiği gibi krit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" />
 </p>
 
-
+---
 
 ## 🚀 Projelerimden Bazıları
 
@@ -61,7 +62,7 @@ Savunma sanayi, siber güvenlik, yapay zeka ve büyük veri analitiği gibi krit
 ✅ **Mobile App (Confidential Project)** – Çok rollü kullanıcı ve işyeri yapısına sahip kurumsal React Native uygulaması  
 ✅ **Go-Reloaded Project** – Yüksek performanslı veri işleme projesi (Go)
 
-🖇️ Tüm projeler için GitHub profilimdeki repolara göz atabilirsin!
+🖇️ Daha fazla proje için profilimdeki repolara göz atabilirsin.
 
 ---
 
