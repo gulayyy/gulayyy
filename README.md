@@ -1,7 +1,7 @@
 <h1 align="center">👋 Merhaba, ben Gülay Yüceer</h1>
 
 <p align="center">
-Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Web teknolojileri üzerine projeler geliştiriyor, kariyerimi savunma sanayine yönelik yazılım geliştirme alanında ilerletmeyi hedefliyorum. 🚀
+Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Web teknolojileri üzerine projeler geliştiriyor, kariyerimi savunma sanayine yönelik yazılım geliştirme alanında ilerletmeyi hedefliyorum. 🚀
 </p>
 
 ---
