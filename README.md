@@ -48,23 +48,6 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Web teknolojileri üzerine 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" />
 </p>
 
----
-
-## 🚀 Projelerimden Bazıları
-
-✅ **LEM-IN Project** – BFS ile karınca kolonisi için en uygun rotayı bulan simülasyon (Go)  
-✅ **Digital Archiving & Data Management System** – Güvenli kurumsal arşivleme sistemi (Node.js, React)  
-✅ **Remote Access and Management System** – Gerçek zamanlı cihaz yönetimi ve JWT tabanlı yetkilendirme (Node.js, React)  
-✅ **Forum Project** – Kullanıcı yönetimi, konu oluşturma ve etkileşim özellikli forum sistemi (Go/Node.js, React/Vue.js, Docker)  
-✅ **Groupie Tracker Project** – API’den müzik grubu bilgilerini çekip dinamik olarak gösteren uygulama (Go)  
-✅ **ASCII-Art Project** – Kullanıcı girdisini ASCII sanata dönüştüren uygulama (Go)  
-✅ **Health and Fitness Tracking System** – Sağlık verilerini takip eden ve analiz eden uygulama (C#, React/Angular)  
-✅ **Mobile App (Confidential Project)** – Çok rollü kullanıcı ve işyeri yapısına sahip kurumsal React Native uygulaması  
-✅ **Go-Reloaded Project** – Yüksek performanslı veri işleme projesi (Go)
-
-🖇️ Daha fazla proje için profilimdeki repolara göz atabilirsin.
-
----
 
 ## 📈 GitHub İstatistikleri
 
